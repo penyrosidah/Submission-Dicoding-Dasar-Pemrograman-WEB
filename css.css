@@ -1,0 +1,87 @@
+#container{
+    width: 100%;
+    height: 3px;
+    background: #FA8072;
+    padding-top: 30px;
+}
+
+body{
+    margin: 0;
+}
+
+#header-title{
+    width: 73%;
+    background: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    position: relative;
+}
+
+#content{
+    width: 70%;
+    height: 350px;
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+#description{
+    width: 50%;
+    height: 300px;
+    margin-top: 10px;
+    background:     #FFF0F5;
+    float: left;
+}
+
+#contact{
+    width: 50%;
+    height: 300px;
+    margin-top: 10px;
+    background:    #FFB6C1;
+    float: right;
+}
+
+#overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    opacity: 0.5;
+}
+
+.text-css{
+    margin: 0;
+    padding: 0;
+    color: white;
+    position: relative;
+}
+
+.text-content{
+    margin: 0;
+    padding: 0;
+    color:  #B22222;
+    position: relative;
+}
+
+.profil-img{
+    width: 200px;
+    height: 150px;
+    border-radius: 50px;
+    position: relative;
+}
+
+#sosmed{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+}
+
+#footer{
+    width: 100%;
+    height: 5px;
+    background: #FA8072;
+    padding-top: 50px;
+}
